@@ -1,7 +1,7 @@
 {
-    "name": "我的第一个模板",
-    "description": "这是我的第一个模板",
-    "id": "my_first_template",
+    "name": "时间模板",
+    "description": "显示当前时间",
+    "id": "my_time_template",
     "author": [
         "Me"
     ],
